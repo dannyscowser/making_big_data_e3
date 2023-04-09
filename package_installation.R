@@ -3,7 +3,7 @@
 ########################################################
 
 # Specify package name
-package_name <- "LinkOrgs"
+package_name <- "making_big_data_e3"
 
 # Generate documentation
 {
@@ -16,7 +16,7 @@ package_name <- "LinkOrgs"
 # Instructions for package installation + use
 {
   # Download package via github
-  devtools::install_github("cjerzak/LinkOrgs-software/LinkOrgs")
+  devtools::install_github("dannyc/making_big_data_e3/making_big_data_e3")
 
   # See package documentation for help
   # ?LinkOrgs::FastFuzzyMatch
@@ -24,7 +24,7 @@ package_name <- "LinkOrgs"
   # ?LinkOrgs::LinkOrgs
 
   # Load package
-  library(LinkOrgs)
+  library(making_big_data_e3)
 
   # Create synthetic data to try everything out
   x_orgnames <- c("apple","oracle","enron inc.","mcdonalds corporation")
