@@ -3,7 +3,7 @@
 #' A package for downloading a data asset, adding noise to numeric arrays, and accessing the data asset.
 #' 
 #' @docType package
-#' @name peada_data
+#' @name making_big_data_e3
 #' @keywords package
 #' @import utils
 #' 
