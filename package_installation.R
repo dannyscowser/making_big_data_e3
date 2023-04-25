@@ -3,7 +3,7 @@
 ########################################################
 
 # Specify package name
-package_name <- "making_big_data_e3"
+package_name <- "making_big_data_software"
 
 # Generate documentation
 {
@@ -16,7 +16,7 @@ package_name <- "making_big_data_e3"
 # Instructions for package installation + use
 {
   # Download package via github
-  devtools::install_github("dannyc/making_big_data_e3/making_big_data_e3")
+  devtools::install_github("dannyc/making_big_data_software/making_big_data_e3")
 
   # See package documentation for help
   # ?LinkOrgs::FastFuzzyMatch
